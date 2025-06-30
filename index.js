@@ -1,4 +1,3 @@
-const submitBtn = document.querySelector("button")
 const form = document.querySelector(".contact-form")
 const successSent = document.querySelector('.sent')
 
