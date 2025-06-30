@@ -105,6 +105,7 @@ textarea {
 
 input[type="radio"] {
     appearance: none;
+    -webkit-appearance: none;
     width: .75rem;
     height: .75rem;
     outline: .1rem solid var(--Grey-500-medium);
